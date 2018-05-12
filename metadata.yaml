@@ -1,0 +1,38 @@
+_repo: La-guerra-injusta_42323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42323-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42323'
+  lccn: '18015168'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- France'
+tableOfContents: La decisión de la Francia -- El optimismo Francés -- Meditación sobre
+  el conflicto -- La Estrategia de Napoleón -- Los socialistas franceses -- Franceses
+  y Españoles -- El ahorro francés -- Las mujeres y la guerra -- Autores y libros
+  -- El Krishna de las trincheras -- Los dos ideales -- El ídolo científico -- La
+  religión de Francia -- ¿Y después?
+title: La guerra injusta; cartas de un español
+url: http://www.gutenberg.org/ebooks/42323
