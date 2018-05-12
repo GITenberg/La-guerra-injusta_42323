@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42323#La-guerra-injusta
 gutenberg_issued: '2013-03-13'
 gutenberg_type: Text
 identifiers:
